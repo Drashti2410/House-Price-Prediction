@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+
+# Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache files
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# macOS / OS metadata
+.DS_Store
+Thumbs.db
